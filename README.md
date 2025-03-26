@@ -1,4 +1,4 @@
-# Brandon's Emulator Collection
+# Dashtiss's Emulator Collection
 
 A collection of probably-not-cycle-accurate emulators written in various languages, because why not?
 
